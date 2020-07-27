@@ -1,3 +1,3 @@
 # Digital Clock
 
-Reloj digital construido en ensamblador de PIC16F84
+Reloj digital construido en ensamblador de PIC16F84A
